@@ -3,7 +3,7 @@ body {
     font-family: Verdana, sans-serif;
   }
   nav {
-    background-color: steelblue;
+    background-color: #5E75C6;
     padding: 10px;
   }
   a {
@@ -22,6 +22,6 @@ body {
     padding: 10px;
   }
   footer {
-    background-color: steelblue;
+    background-color: #F6E836;
     color: white;
   }
